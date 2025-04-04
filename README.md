@@ -1,5 +1,5 @@
 
-🌸 Introduction
+# 🌸 Introduction
 
 Anime has seen explosive growth in India and across the globe, becoming more than just entertainment—it's a culture. With platforms like MyAnimeList and Crunchyroll gaining millions of users, the demand for instant and intelligent anime information has skyrocketed. But with so much data spread across websites, getting accurate answers quickly isn't always easy.
 
